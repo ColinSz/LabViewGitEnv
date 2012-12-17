@@ -22,7 +22,7 @@ You can install this system wide or per user. If you have administrative rights 
 Open GIT Bash as Administrator and issue the following commands
 
 	mkdir -p /usr/local
-	git clone -b windows git://github.com/joerg/LabViewGitEnv.git /usr/local/
+	git clone -b windows git://github.com/k3nav7/LabViewGitEnv.git /usr/local/
 	cd /usr/local && git checkout -b local
 
 If your are planning to use GIT Gui, open cmd.exe as Administrator and issue the following command
